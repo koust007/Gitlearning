@@ -9,7 +9,7 @@ public class Maths {
 		
 	}
 	
-	
+	//Dev 2 has made this change
 	
 	public static void main(String[] args) {
 		Maths obj = new Maths();
