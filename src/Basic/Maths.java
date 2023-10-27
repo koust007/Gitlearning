@@ -10,6 +10,7 @@ public class Maths {
 	}
 	
 	//Dev 2 has made this change
+	//New methods have been added
 	
 	public static void main(String[] args) {
 		Maths obj = new Maths();
